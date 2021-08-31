@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on JavaScript, ReactJs and Design Patterns
 - 🌱 I’m continuously learning 
 - 👯 I’m looking to collaborate on PWA's and SPA's
-- 💬 Ask me about Alohomora
+- 💬 Ask me about anything under the sun
 - 😄 Pronouns: She/Her
 <details>
 <summary>📊 Github Stats</summary>
