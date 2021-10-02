@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 <summary>📊 Github Stats</summary>
 </details>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Deep1Shikha&show_icons=true&theme=merko)
+
 
  ![Visitor Count](https://profile-counter.glitch.me/{Deep1Shikha}/count.svg)
